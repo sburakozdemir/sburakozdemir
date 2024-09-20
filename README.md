@@ -17,7 +17,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/selami-burak-%C3%B6zdemir-2993a51ab/" target="blank" rel="noopener"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="linkedin" height="30" width="30" /></a>
-<a href="https://github.com/sburakozdemir" target="blank" rel="noopener"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" height="30" width="30" /></a>
 </p>
 
 ---
